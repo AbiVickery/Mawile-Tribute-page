@@ -1,0 +1,129 @@
+html {
+    /*  background: linear-gradient(calc(323deg), rgba(163, 163, 163, 0.09) 0%, rgba(163, 163, 163, 0.09) 33.3%, rgba(100, 100, 100, 0.09) 33.3%, rgba(100, 100, 100, 0.09) 66.6%, rgba(162, 162, 162, 0.09) 66.6%, rgba(162, 162, 162, 0.09) 99%), linear-gradient(calc(881deg), rgba(193, 193, 193, 0.06) 0%, rgba(193, 193, 193, 0.06) 33.3%, rgba(169, 169, 169, 0.06) 33.3%, rgba(169, 169, 169, 0.06) 66.6%, rgba(92, 92, 92, 0.06) 66.6%, rgba(92, 92, 92, 0.06) 99%), linear-gradient(calc(710deg), rgba(45, 45, 45, 0.03) 0%, rgba(45, 45, 45, 0.03) 33.3%, rgba(223, 223, 223, 0.03) 33.3%, rgba(223, 223, 223, 0.03) 66.6%, rgba(173, 173, 173, 0.03) 66.6%, rgba(173, 173, 173, 0.03) 99%), linear-gradient(calc(731deg), rgba(226, 226, 226, 0.06) 0%, rgba(226, 226, 226, 0.06) 33.3%, rgba(81, 81, 81, 0.06) 33.3%, rgba(81, 81, 81, 0.06) 66.6%, rgba(186, 186, 186, 0.06) 66.6%, rgba(186, 186, 186, 0.06) 99%), linear-gradient(calc(518deg), rgba(225, 225, 225, 0.04) 0%, rgba(225, 225, 225, 0.04) 33.3%, rgba(95, 95, 95, 0.04) 33.3%, rgba(95, 95, 95, 0.04) 66.6%, rgba(39, 39, 39, 0.04) 66.6%, rgba(39, 39, 39, 0.04) 99%), linear-gradient(calc(445deg), rgba(184, 184, 184, 0.06) 0%, rgba(184, 184, 184, 0.06) 33.3%, rgba(0, 0, 0, 0.06) 33.3%, rgba(0, 0, 0, 0.06) 66.6%, rgba(140, 140, 140, 0.06) 66.6%, rgba(140, 140, 140, 0.06) 99.9%), linear-gradient(calc(846deg), rgba(40, 40, 40, 0.07) 0%, rgba(40, 40, 40, 0.07) 33.3%, rgba(214, 214, 214, 0.07) 33.3%, rgba(214, 214, 214, 0.07) 66.6%, rgba(190, 190, 190, 0.07) 66.6%, rgba(190, 190, 190, 0.07) 99.9%), linear-gradient(calc(658deg), rgba(230, 230, 230, 0) 0%, rgba(230, 230, 230, 0) 33.3%, rgba(241, 241, 241, 0) 33.3%, rgba(241, 241, 241, 0) 66.6%, rgba(55, 55, 55, 0) 66.6%, rgba(55, 55, 55, 0) 99%), linear-gradient(calc(288deg), rgb(227, 38, 129), rgb(182, 11, 239)); */
+    /* background: rgb(254,238,255);
+    background: linear-gradient(180deg, rgba(254,238,255,1) 0%, rgba(175,28,157,1) 93%); */
+     
+     background: rgb(176,38,209);
+   background: radial-gradient(circle, rgba(176,38,209,1) 0%, rgba(208,187,250,1) 88%);
+   /*   font-family: 'Gochi Hand', cursive; */
+     font-size: 25px;
+   }
+   
+   body {
+     -webkit-text-size-adjust: none;
+     width: auto;
+     height: auto;
+     font-family: 'Gochi Hand', cursive;
+   /*   font-family: korean calligraphy; */
+   /*   font-family: fantasy; */
+   /*   font-family: comic sans ms; */
+     font-size: 100%;
+     line-height: 1.25;
+     text-align: center;
+     color: #333;
+     margin: 0;
+   }
+   
+   h1 {
+     font-size: auto;
+     line-height: 1.1;
+   }
+   
+   
+   
+   img {
+     max-width: 100%;
+     display: block;
+     height: auto;
+     margin: 0 auto;
+   }
+   
+     
+   img-caption {
+     max-width: 100%;
+   }
+   
+   tributeinfo {
+     font-size: 12px;
+     text-align: auto;
+   }
+   
+   explain {
+     text-align: auto;
+     line-height: 1.5rem;
+   }
+   legend {
+     text-align: auto;
+   }
+   thelegend {
+     text-align: auto;
+   }
+   .story1 {
+     text-align: center;
+     margin: 0;
+   }
+   leg1 {
+     text-align: auto;
+   }
+   leg2 {
+     text-align: auto;
+   }
+   mega1 {
+    border: 1px; 
+   }
+   stones {
+     text-align: auto;
+   }
+   mamini1 {
+     max-width: none;
+   }
+   mema1 {
+     max-width: none;
+   }
+   mema2 {
+     max-width: none;
+   }
+   keystone1 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   keystone2 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   keysone2 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   keystone3 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   megastones {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   megastone1 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   megastone2 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   megastone3 {
+     max-width: 100%;
+     display: block;
+     height: auto;
+   }
+   deliora {
+     width: auto;
+     text-decoration: none;
+   }
